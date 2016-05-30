@@ -18,7 +18,7 @@ Webpack and Browserify are more than just module bundlers, though. They both pro
 
 If you've never used them before, I highly recommend going through a few tutorials to get familiar with the concept of module bundlers, and start writing JavaScript using the latest ECMAScript features.
 
-## Single File Components
+## Componentes em um único arquivo
 
 In a typical Vue.js project we will be dividing our interface into many small components, and it would be nice to have each component encapsulate its CSS styles, template and JavaScript definition in the same place. As mentioned above, when using Webpack or Browserify, with proper source transforms we can write our components like this:
 

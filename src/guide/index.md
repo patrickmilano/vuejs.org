@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Começando
 type: guide
 order: 1
 ---
