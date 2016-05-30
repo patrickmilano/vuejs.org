@@ -49,7 +49,6 @@ $ npm install vue@csp
 
 ## CLI
 
-Vue.js provides an official CLI for quickly scaffolding ambitious Single Page Applications. It provides battery-included build setups for a modern frontend workflow. It takes only a few minutes to get up and running with hot-reload, lint-on-save and production-ready builds:
 O Vue.js fornece uma [CLI oficial](https://github.com/vuejs/vue-cli) para um rápido __scaffolding__ de uma Aplicação de Página Única. Isso proporciona uma configuração carregada com modernos fluxos de trabalho __frontend__. Leva alguns minutos para "subir" e funciona com arquiteturas __hot-reload__, __lint-on-save__ e __production-ready__.
 
 ``` bash
