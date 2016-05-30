@@ -10,7 +10,7 @@ gz_size: "25.79"
 
 ### Notas de Compatibilidade
 
-Vue.js **não** suporta o IE8 e versões anteriores, pois o Vue.js trabalha com características do ECMAScript 5, que não são suportadas no IE8. Entretanto o Vue.js suporta todos os [navegadores compatíveis com ECMAScript](http://caniuse.com/#feat=es5).
+O Vue.js **não** suporta o IE8 e versões anteriores, pois o Vue.js trabalha com características do ECMAScript 5, que não são suportadas no IE8. Entretanto o Vue.js suporta todos os [navegadores compatíveis com ECMAScript](http://caniuse.com/#feat=es5).
 
 ### Notas de Lançamento
 
@@ -49,7 +49,7 @@ $ npm install vue@csp
 
 ## CLI
 
-O Vue.js fornece uma [CLI oficial](https://github.com/vuejs/vue-cli) para um rápido __scaffolding__ de uma Aplicação de Página Única. Isso proporciona uma configuração carregada com modernos fluxos de trabalho __frontend__. Leva alguns minutos para "subir" e funciona com arquiteturas __hot-reload__, __lint-on-save__ e __production-ready__.
+O Vue.js fornece uma [CLI oficial](https://github.com/vuejs/vue-cli) para um rápido *scaffolding* de uma Aplicação de Página Única. Isso proporciona uma configuração carregada com modernos fluxos de trabalho *frontend*. Leva alguns minutos para "subir" e funciona com arquiteturas *hot-reload*, *lint-on-save* e *production-ready*.
 
 ``` bash
 # instalar vue-cli
@@ -64,7 +64,7 @@ $ npm run dev
 
 ## Dev Build
 
-**Importante**: o pacote CommonJS distribuído no NPM (`vue.common.js`) é ativado apenas durante __releases__ na __branch__ `master`, então o arquivo na __branch__ `dev` é o mesmo da última __release__ estável. Para usar a última versão do código fonte no GitHub, você mesmo deverá fazer o __build__!
+**Importante**: o pacote CommonJS distribuído no NPM (`vue.common.js`) é ativado apenas durante *releases* na *branch* `master`, então o arquivo na *branch* `dev` é o mesmo da última *release* estável. Para usar a última versão do código fonte no GitHub, você mesmo deverá fazer o *build*!
 
 ``` bash
 git clone https://github.com/vuejs/vue.git node_modules/vue
@@ -83,4 +83,4 @@ $ bower install vue
 ## AMD Module Loaders
 
 The standalone downloads or versions installed via Bower are wrapped with UMD so they can be used directly as an AMD module.
-Os downloads isolados ou versões instaladas via __Bower__ são envolvidas com UMD, então eles podem ser usados diretamente como um módulo AMD.
+Os downloads isolados ou versões instaladas via *Bower* são envolvidas com UMD, então eles podem ser usados diretamente como um módulo AMD.
